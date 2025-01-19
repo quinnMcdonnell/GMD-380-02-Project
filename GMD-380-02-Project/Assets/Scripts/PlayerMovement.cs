@@ -24,5 +24,5 @@ public class PlayerMovement : MonoBehaviour
         rb.velocity = movement * MovementSpeed;
     }
 
-    //Source: https://www.youtube.com/watch?v=RN3yuCvazL4&t=358s
+    //Movement Source: https://www.youtube.com/watch?v=RN3yuCvazL4&t=358s
 }
